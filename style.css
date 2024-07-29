@@ -429,6 +429,7 @@ main .container .left .profile {
 
 .middle .stories .story:nth-child(1) {
   background: url(./images/Story\ Marc.jpg) no-repeat center center/cover;
+  border: 2px solid var(--color-primary);
 }
 
 .middle .stories .story:nth-child(2) {
